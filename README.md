@@ -1,4 +1,4 @@
-# prueba1
+# Prueba 1
 prueba repositorio
 
 **repositorio de la universidad de costa rica**
